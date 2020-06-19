@@ -3,10 +3,10 @@
 ### Remarks and contributors
 
 This repository was previously hosted on [Renkulab](https://renkulab.io/) during the spring semester of 2020 for the class [EE-490(h) Lab in data science](https://edu.epfl.ch/coursebook/fr/lab-in-data-science-EE-490-H) at EPFL. Due to the class policy, only the preprocessed datasets are available on `git-lfs`, while most of the original data can be found on SBB's website. The original contributors of the project were:
-- Mariko Makhmutova @marikomakhm
-- Julien Salomon @jdsalomon
-- Timoté Vaucher @tvaucher
-- Justine Weber @JustineWeb
+- Mariko Makhmutova [@marikomakhm](https://github.com/marikomakhm)
+- Julien Salomon [@jdsalomon](https://github.com/jdsalomon)
+- Timoté Vaucher [@tvaucher](https://github.com/tvaucher)
+- Justine Weber [@JustineWeb](https://github.com/JustineWeb)
 
 For the setup, we propose a local version of what we were using during the class. After cloning this repository run
 ```bash
