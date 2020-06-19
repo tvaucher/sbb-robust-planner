@@ -1,2 +1,1 @@
-data/sbb_graph.gpickle filter=lfs diff=lfs merge=lfs -text
-data/stops.parquet.gz filter=lfs diff=lfs merge=lfs -text
+data/* filter=lfs diff=lfs merge=lfs -text
