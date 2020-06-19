@@ -1,0 +1,10 @@
+networkx
+geopy
+geopyspark
+pandas
+numpy
+matplotlib
+pyhive[hive]
+bokeh
+pyarrow
+ipymaterialui
